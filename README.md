@@ -39,7 +39,7 @@ For more details on the dataset, visit: [UCI Cardiotocography Dataset](https://a
 To get started, clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/xinyi-wong/data.git
 ```
 Install the required dependencies:
 
