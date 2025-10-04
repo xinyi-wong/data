@@ -9,7 +9,6 @@ This repository contains the code and resources for the **2025 Datathon** compet
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Models](#models)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Results](#results)
@@ -41,4 +40,35 @@ To get started, clone the repository:
 
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
+```
+Install the required dependencies:
 
+```bash
+pip install -r requirements.txt
+```
+
+## Models
+
+The following machine learning models were implemented for the classification task:
+
+- Logistic Regression
+
+- Random Forest
+
+- Gradient Boosting
+
+- SVC
+  
+- SMOTE
+
+
+## Evaluation Metrics
+
+
+- Balanced Accuracy: Ensures that all classes are treated fairly.
+
+- Macro F1-Score: Balances precision and recall across all classes.
+
+## Results
+
+The results show that the model is reliable in detecting pathologic cases of fetal distress.
