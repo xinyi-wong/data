@@ -42,32 +42,3 @@ To get started, clone the repository:
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
 
-## Models
-
-The following machine learning models were implemented for the classification task:
-
-- Logistic Regression: A simple and interpretable model.
-
-- Random Forest: An ensemble method using multiple decision trees.
-
-- Gradient Boosting: A method that builds multiple models sequentially.
-
-- Neural Networks (Optional): Used for experimentation with deep learning.
-
-## Evaluation Metrics
-
-The models were evaluated based on the following metrics:
-
-Balanced Accuracy: Ensures that all classes are treated fairly.
-
-Macro F1-Score: Balances precision and recall across all classes.
-
-## Results
-
-The Random Forest model achieved the following performance:
-
-Balanced Accuracy: 0.85
-
-Macro F1-Score: 0.82
-
-The results show that the model is reliable in detecting pathologic cases of fetal distress.
