@@ -23,7 +23,7 @@ The dataset used is the **UCI Cardiotocography dataset**, which includes real-wo
 
 ### 📑Dataset
 
-The dataset used for this project is the **UCI Cardiotocography dataset**, which contains 2,000+ CTG traces recorded from expectant mothers. The dataset includes features such as:
+The dataset used for this project is the **UCI Cardiotocography dataset**, which contains 2,000+ CTG traces recorded from expectant mothers. The dataset includes medical features such as:
 
 - **LB (Baseline Heart Rate)**: The resting heart rate of the fetus.
 - **AC (Accelerations)**: Short bursts of increased heart rate.
