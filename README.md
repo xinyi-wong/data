@@ -4,6 +4,9 @@
 
 This repository contains the code and resources for the **2025 Datathon** competition, where the goal was to predict fetal distress in expectant mothers using cardiotocography (CTG) data. The model classifies the CTG data into three categories: **Normal**, **Suspect**, and **Pathologic** to assist healthcare professionals in timely decision-making during labor.
 
+## Group: TM-79
+Members: Wong Xin Yi, Freda Tiong Xun Yi, Lee Jia Xin
+
 ### 📍Table of Contents
 
 - [Project Overview](#project-overview)
